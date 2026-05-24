@@ -27,6 +27,7 @@
 <p>
 Currently exploring temporal graph learning, large-scale music collaboration networks, and graph-based prediction systems through my diploma thesis using Temporal Graph Neural Networks.
   <p>
+    
 ---
 
 # 🛠 Tech Stack
