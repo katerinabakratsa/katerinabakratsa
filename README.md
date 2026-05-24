@@ -17,7 +17,7 @@ Interested in building efficient architectures that combine deep learning, large
 
 ---
 
-# Engineering Profile
+# Profile
 
 Technical background spanning machine learning systems, distributed processing, scalable backend architectures, and data-intensive applications.
 ### Key Areas of Expertise:
