@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-Focused on machine learning systems, graph-based learning, and scalable data processing pipelines.  
-Interested in building efficient architectures that combine deep learning, large-scale data, and real-world applications.
+Focused on building machine learning systems, graph-based architectures, and scalable data processing pipelines for real-world applications.
 </p>
 
 <p align="center">
@@ -17,16 +16,18 @@ Interested in building efficient architectures that combine deep learning, large
 
 ---
 
-# Profile
-
-Technical background spanning machine learning systems, distributed processing, scalable backend architectures, and data-intensive applications.
-### Key Areas of Expertise:
+### Areas of Interest & Expertise
 - Deep Learning & Graph Neural Networks (GNNs / TGNs)
 - Distributed Data Processing & Query Optimization
 - Big Data Workflows & Multi-Node Environments
 - Backend APIs & Microservices Architecture
 - Full-Stack & Cross-Platform Application Development
 
+### Current Focus
+<p>
+### Current Focus
+Currently working on temporal graph learning and large-scale music collaboration analysis through my diploma thesis on artist–writer collaboration prediction using Temporal Graph Neural Networks.
+  <p>
 ---
 
 # 🛠 Tech Stack
