@@ -99,7 +99,7 @@ Technical background spanning machine learning systems, distributed processing, 
 
 ---
 
-### Stray Pawsitive – Interactive Mobile Solution
+### Stray Pawsitive
 **Stack:** `Flutter`, `Dart`, `Firebase`, `Cloud Firestore`, `OpenAI API`, `Google Maps API`
 
 - Developed a cross-platform mobile application for reporting and tracking stray animals through interactive map-based workflows.
