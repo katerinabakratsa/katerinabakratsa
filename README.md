@@ -17,7 +17,7 @@ Interested in building efficient architectures that combine deep learning, large
 
 ---
 
-# 🧠 Engineering Profile
+# Engineering Profile
 
 Technical background spanning machine learning systems, distributed processing, scalable backend architectures, and data-intensive applications.
 ### Key Areas of Expertise:
@@ -81,7 +81,7 @@ Technical background spanning machine learning systems, distributed processing, 
 
 # 📌 Core Projects
 
-### 📊 Scalable Crime Analytics System
+### Scalable Crime Analytics System
 **Stack:** `Apache Spark (PySpark)`, `AWS`, `Hadoop`, `Apache Sedona`
 
 - Developed distributed data analysis workflows on Los Angeles crime datasets (2010–2025) using Spark clusters on AWS.
@@ -90,7 +90,7 @@ Technical background spanning machine learning systems, distributed processing, 
 
 ---
 
-### 🏫 Student Analytics SaaS Platform
+### Student Analytics SaaS Platform
 **Stack:** `React`, `Docker`, `REST APIs`, `PostgreSQL`
 
 - Collaborated on the development of a microservices-based SaaS platform for student grade management and statistics visualization.
@@ -99,7 +99,7 @@ Technical background spanning machine learning systems, distributed processing, 
 
 ---
 
-### 🐾 Stray Pawsitive – Interactive Mobile Solution
+### Stray Pawsitive – Interactive Mobile Solution
 **Stack:** `Flutter`, `Dart`, `Firebase`, `Cloud Firestore`, `OpenAI API`, `Google Maps API`
 
 - Developed a cross-platform mobile application for reporting and tracking stray animals through interactive map-based workflows.
