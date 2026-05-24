@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Katerina Bakratsa 👋</h1>
 
 <p align="center">
-  <b>Electrical & Computer Engineering Student @ NTUA</b><br>
+  <b>Electrical & Computer Engineering Student at the National Technical University of Athens</b><br>
   Specializing in Machine Learning Engineering, Graph Neural Networks, and Distributed Data Systems.
 </p>
 
 <p align="center">
-Focused on building machine learning systems, graph-based architectures, and scalable data processing pipelines for real-world applications.
+  Focused on building machine learning systems, graph-based architectures, and scalable data processing pipelines for real-world applications.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Focused on building machine learning systems, graph-based architectures, and sca
 ### Current Focus
 <p>
 ### Current Focus
-Currently working on temporal graph learning and large-scale music collaboration analysis through my diploma thesis on artist–writer collaboration prediction using Temporal Graph Neural Networks.
+Currently exploring temporal graph learning, large-scale music collaboration networks, and graph-based prediction systems through my diploma thesis using Temporal Graph Neural Networks.
   <p>
 ---
 
